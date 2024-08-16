@@ -13,16 +13,8 @@
       "logo": "mdi:language-css3"
     },
     {
-      "text": "PHP",
-      "logo": "mdi:language-php"
-    },
-    {
-      "text": "Astro",
-      "logo": "simple-icons:astro"
-    },
-    {
-      "text": "Tailwind CSS",
-      "logo": "mdi:tailwind"
+      "text": "Python",
+      "logo": "mdi:language-python"
     }
   ],
   "Development Tools": [
@@ -37,16 +29,16 @@
   ],
   "Hosting and Cloud Services": [
     {
-      "text": "DigitalOcean",
-      "logo": "mdi:digital-ocean"
+      "text": "Heroku",
+      "logo": "mdi:heroku"
     },
     {
       "text": "Cloudflare",
       "logo": "cib:cloudflare"
     },
     {
-      "text": "Netlify",
-      "logo": "cib:netlify"
+      "text": "Vercel",
+      "logo": "cib:Vercel"
     }
   ],
   "Operating Systems": [
@@ -61,14 +53,6 @@
   ],
   "Other Programming Languages and Technologies": [
     {
-      "text": "Lua",
-      "logo": "mdi:language-lua"
-    },
-    {
-      "text": "Golang",
-      "logo": "mdi:language-go"
-    },
-    {
       "text": "Node.js",
       "logo": "mdi:nodejs"
     }
@@ -81,16 +65,6 @@
     {
       "text": "Nginx",
       "logo": "cib:nginx"
-    }
-  ],
-  "Databases": [
-    {
-      "text": "MySQL",
-      "logo": "cib:mysql"
-    },
-    {
-      "text": "MongoDB",
-      "logo": "cib:mongodb"
     }
   ],
   "Other Software": [
@@ -107,8 +81,8 @@
       "logo": "mdi:visual-studio"
     },
     {
-      "text": "Brave",
-      "logo": "cib:brave"
+      "text": "Chrome",
+      "logo": "cib:chrome"
     }
   ]
 }
