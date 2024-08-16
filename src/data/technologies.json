@@ -51,7 +51,7 @@
       "logo": "mdi:ubuntu"
     },
     { "text": "Android",
-      "text": "simple-icons:android"
+      "logo": "simple-icons:android"
     }
   ],
   "Other Programming Languages and Technologies": [
