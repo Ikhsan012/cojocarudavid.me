@@ -30,7 +30,7 @@
   "Hosting and Cloud Services": [
     {
       "text": "Heroku",
-      "logo": "mdi:heroku"
+      "logo": "bxl:heroku"
     },
     {
       "text": "Cloudflare",
