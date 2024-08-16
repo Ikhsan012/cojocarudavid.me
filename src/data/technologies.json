@@ -30,7 +30,7 @@
   "Hosting and Cloud Services": [
     {
       "text": "Heroku",
-      "logo": "bxl:heroku"
+      "logo": "simple-icons:heroku"
     },
     {
       "text": "Cloudflare",
@@ -38,7 +38,7 @@
     },
     {
       "text": "Vercel",
-      "logo": "cib:vercel"
+      "logo": "simple-icons:vercel"
     }
   ],
   "Operating Systems": [
@@ -82,7 +82,7 @@
     },
     {
       "text": "Chrome",
-      "logo": "ri:chrome"
+      "logo": "simple-icons:googlechrome"
     }
   ]
 }
