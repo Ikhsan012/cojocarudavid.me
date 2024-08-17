@@ -1,1 +1,1 @@
-web: npm install @astrojs/tailwind --save && npm run dev
+web: npm run build && npm run start
