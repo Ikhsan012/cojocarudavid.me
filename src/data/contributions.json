@@ -1,13 +1,12 @@
 [
   {
-    "name": "cojocaru-david",
+    "name": "ChatGPT Bot",
     "stars": 33,
-    "url": "https://github.com/cojocaru-david/cojocarudavid.me",
-    "description": "Blazing fast personal website built with Astro.js and styled with Tailwind CSS.",
+    "website": "https://chatgpt.ikhsandigiweb.xyz",
+    "description": "ChatGPT Bot Berbasid Web",
     "languages": [
-      "Astro",
-      "TypeScript",
       "JavaScript",
+      "HTML",
       "CSS"
     ],
     "role": "author"
